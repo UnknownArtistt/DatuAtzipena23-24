@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class MainMenua {
 
-    public static String fitxategia = "Mendiak.csv";
+    public static String fitxategia = "mendiencsva\\Mendiak.csv";
     public static BufferedReader input = null;
 
     public static void main(String[] args) throws IOException {
